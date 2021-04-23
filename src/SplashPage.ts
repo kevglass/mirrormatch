@@ -4,7 +4,7 @@ import ImageResource from "./sleek/resources/ImageResource";
 const COKEANDCODE_BG: string = "#327979";
 const SPLASH_TIME: number = 150;
 const GRAVITY: number = 1;
-const BOUNCE: number = 1;
+const BOUNCE: number = 0.5;
 
 export default class SplashPage {
   onComplete: () => void;
