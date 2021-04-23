@@ -1,6 +1,6 @@
 import Graphics from "./sleek/Graphics";
 import ImageResource from "./sleek/resources/ImageResource";
-
+ 
 const COKEANDCODE_BG: string = "#327979";
 const SPLASH_TIME: number = 150;
 const GRAVITY: number = 1;
